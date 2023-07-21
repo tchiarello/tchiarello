@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### My name is Tatiane ✨
 I am a frontend developer with approximately 2 years of experience. <br />
 I am passionate about new challenges and constantly seeking new opportunities to grow and learn. <br />
 My skillset includes working with React and TypeScript, and I am always looking for ways to improve and expand upon my skills. <br />

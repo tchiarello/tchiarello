@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a frontend developer with approximately 2 years of experience. <br />
+I am passionate about new challenges and constantly seeking new opportunities to grow and learn. <br />
+My skillset includes working with React and TypeScript, and I am always looking for ways to improve and expand upon my skills. <br />
+I am excited to connect with like-minded professionals and see what the future holds. <br />
+
+Visit my personal website: https://www.tatianechiarello.dev/
+
 <!--
 **tchiarello/tchiarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

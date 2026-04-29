@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tatiane. As a frontend developer with about two years of experience, I enjoy tackling new challenges and continuously learning. My expertise lies in React and TypeScript, and I'm always eager to sharpen these skills. I'm looking forward to connecting with others in the field and excited about what's to come.
+I'm Tatiane. As a fullstack developer with about four years of experience, I enjoy tackling new challenges and continuously learning. My expertise lies in React, Node.js and TypeScript, and I'm always eager to sharpen these skills. I'm looking forward to connecting with others in the field and excited about what's to come.
 
 For more details, check out my personal website: https://www.tatianechiarello.dev/
 
